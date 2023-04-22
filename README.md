@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps about github.
 
 This is the second change.
+
+This is the third change.
